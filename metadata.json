@@ -1,0 +1,7 @@
+{
+  "name": "Calippo",
+  "description": "A high-performance fitness companion that identifies food from images and provides instant nutritional insights for protein, fats, and carbs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
